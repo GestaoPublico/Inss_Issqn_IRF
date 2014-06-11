@@ -13,3 +13,9 @@ O Issqn é descontado 3%
 O IRF é descontado 7%, 15%, 22.5% e 27.5%
 
 Colocando o valor Bruto o programa realiza a tarefa e calcula o valor exato simples, fácil e rápido. 
+
+
+Imposto de Renda
+=============
+
+Desenvolvido com o Python 3.4 para calcular o imposto de renda
